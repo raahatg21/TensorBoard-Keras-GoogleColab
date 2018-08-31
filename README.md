@@ -6,8 +6,8 @@
   
   TensorBoard Implementation of MNIST Dataset is done in **MNIST_tbcolab.ipynb**. I've also included:
     
-    a) The Graphs and Visualisations in the folder **visuals**
-    b) The Data and Log Files in the folder **Data**
+    a) The Graphs and Visualisations in the folder 'visuals'
+    b) The Data and Log Files in the folder 'data'
   
   This repository is inspired from the following article: https://medium.com/@tommytao_54597/use-tensorboard-in-google-colab-16b4bb9812a6
   
