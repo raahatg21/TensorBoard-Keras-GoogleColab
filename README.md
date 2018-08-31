@@ -5,6 +5,7 @@
   TensorBoard is easy enough to run on a local machine, however the same method didn't seem to be working on Google Colab. This is the most reliable method I found of using TensorBoard on Colab.
   
   TensorBoard Implementation of MNIST Dataset is done in **MNIST_tbcolab.ipynb**. I've also included:
+    
     a) The Graphs and Visualisations in the folder **visuals**
     b) The Data and Log Files in the folder **Data**
   
